@@ -121,6 +121,15 @@ header{
     .show576{
         display: table-cell;
     }
+    .SmsMeta-card{
+        padding: 35px;
+    }
+    .meta-sales-table tbody tr{
+        height: 55px;
+    }
+    .meta-sales-table tbody{
+        font-size: 18px;
+    }
 }
 @media(min-width: 992px){
     .show992{
